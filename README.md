@@ -10,14 +10,14 @@
 
 ### I'm a Software Development.
 
-- 🔭 I’m currently exploring the sky about the `Cloud`
+- 🔭 I’m currently exploring the `cloud computing landscape`.
 - 🌱 I’m currently learning about `C# and Amazon Cloud Service`
 - 👯 Open to collaborate.
 - 💼 Open to SDE roles.
 - ⚡ Hobbies: I like playing videogames and listen music.
 
 ### Portfolio
-* [Link](https://www.reddsito.com)
+* [Press here to see my portfolio](https://www.reddsito.com)
 
 <br/>
 
@@ -40,7 +40,7 @@
 ---
 
 ### Connect with me:
-[<img align="left" alt="Reddsito | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+ [<img align="left" alt="Reddsito | LinkedIn" width="50px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/enriquequerini/
 
