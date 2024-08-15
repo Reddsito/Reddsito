@@ -13,7 +13,7 @@
 - 🔭 I’m currently exploring the `cloud computing landscape`.
 - 🌱 I’m currently learning about `C# and Amazon Cloud Service`
 - 👯 Open to collaborate.
-- 💼 Open to SDE roles.
+- 💼 Open to SWD roles.
 - ⚡ Hobbies: I like playing videogames and listen music.
 
 ### Portfolio
