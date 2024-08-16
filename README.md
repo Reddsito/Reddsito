@@ -3,7 +3,7 @@
 [<img src="https://komarev.com/ghpvc/?username=reddsito&label=Profile+Views&color=4287f5&style=flat" />](https://github.com/reddsito)
 
 <!-- <img src="https://media.giphy.com/media/fAnzw6YK33jMwzp5wp/giphy.gif" align="right"  width="100%"/> -->
-<img src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" align="right"  width="40%"/>
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExenlyYnUxMjEycHh6NHpibWw4anRpdGFxYWIxdm1iYnY0ZGdnbjBkNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vKH4mU0p1leRjYRyjx/giphy.webp" align="right" height="0%" width="27%"/>
 
 <!-- <img src="https://media.giphy.com/media/11ZSwQNWba4YF2/giphy.gif" align="right" width="200px" height="20%" />
  -->
