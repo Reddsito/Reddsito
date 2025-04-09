@@ -11,14 +11,14 @@
 ### I'm a Software Development.
 
 - 🔭 I’m currently exploring the `cloud computing landscape`.
-- 🌱 I’m currently learning about `C# and Amazon Cloud Service`
+- 🌱 I’m currently learning about `Python and AWS`
 - 👯 Open to collaborate.
 - 💼 Open to SWD roles.
-- ⚡ Hobbies: I like playing videogames and listen music.
+- ⚡ Hobbies: I like playing video games, listen music, and learning new things about IT.
 
 ### Portfolio
 * [Press here to see my portfolio](https://www.reddsito.com)
-
+*not yet, still in developong*
 <br/>
 
 
